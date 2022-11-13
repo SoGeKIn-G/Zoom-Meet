@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84341231195",
+    "project_id": "gb-video-calling",
+    "storage_bucket": "gb-video-calling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84341231195:android:9e8682255700e7db31397e",
+        "android_client_info": {
+          "package_name": "com.gauravbora.gbvideocalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84341231195-ucn3ofm1dj1471ffmr9uct1idnf7bodo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JL6xP616G5vRdm72TOohnLJAfZ6RZLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84341231195-ucn3ofm1dj1471ffmr9uct1idnf7bodo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
